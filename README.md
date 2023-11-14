@@ -1,2 +1,2 @@
 # my-public-collections
-srcipts, code snippet
+scripts, code snippet that i wrote, only for learning.
